@@ -66,10 +66,10 @@
 
 <p align="center">
   <a href="https://snip-vault-frontend.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilpy-dev&repo=[snip-vault-frontend](https://github.com/sunilpy-dev/Snip-Vault)&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilpy-dev&repo=Snip-Vault&hide_border=true" />
   </a>
   <a href="https://github.com/sunilpy-dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilpy-dev&repo=https://github.com/sunilpy-dev/mumbai_hacks&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilpy-dev&repo=mumbai_hacks&hide_border=true" />
   </a>
 </p>
 
