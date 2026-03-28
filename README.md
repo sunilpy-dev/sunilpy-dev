@@ -77,21 +77,6 @@ A hackathon project focused on detecting misinformation using AI-powered tools.
   <li>🔹 Worked on UI & API integration</li>
 </ul>
 
----
-
-<h3>🚀 Mumbai Hacks</h3>
-
-<p>
-A hackathon project focused on building a real-world solution under time constraints with a collaborative team.
-</p>
-
-<ul>
-  <li>🔹 Built during a hackathon</li>
-  <li>🔹 Tech Stack: React, Node.js</li>
-  <li>🔹 Worked in a team environment</li>
-  <li>🔹 Focused on rapid development & problem-solving</li>
-</ul>
-
 <p>
 <a href="https://github.com/sunilpy-dev/mumbai_hacks">📂 GitHub Repo</a>
 </p>
