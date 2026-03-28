@@ -68,10 +68,12 @@
   <a href="https://snip-vault-frontend.onrender.com/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilpy-dev&repo=Snip-Vault&hide_border=true" />
   </a>
-  <a href="https://github.com/sunilpy-dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilpy-dev&repo=mumbai_hacks&hide_border=true" />
-  </a>
 </p>
+
+### Mumbai Hacks
+🔹 Built during hackathon  
+🔹 Tech: React, Node.js  
+🔹 [View Project](https://github.com/sunilpy-dev/mumbai_hacks)
 
 ---
 
