@@ -75,20 +75,17 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunilpy-dev&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sunilpy-dev&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/sunil-bhagat-20b926316
 * 💻 GitHub: https://github.com/sunilpy-dev
 * 📧 Email: [mhbhagat9900@gmail.com](mailto:mhbhagat9900@gmail.com)
+
+---
+
+<p align="center">
+  <i>"Consistency beats talent when talent doesn’t work hard."</i>
+</p>
 
 ---
 
