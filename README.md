@@ -20,49 +20,30 @@
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️ Cloud & Tools
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![GCP](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Projects
-
-### 🔹 Snip Vault – Code Management Platform
-
-* Built using **MERN Stack**
-* Implemented **JWT authentication & OTP verification**
-* 📈 Improved performance (**Lighthouse: 50 → 80**)
-  🔗 https://snip-vault-frontend.onrender.com/
-
----
-
-### 🔹 FactSure – AI Misinformation Detection
-
-* 🏆 Hackathon Project
-* Features: chatbot, social media fact-checking
-* Worked on **UI & API integration**
-
----
-
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 <h3>🚀 Snip Vault</h3>
 
@@ -72,15 +53,31 @@ A full-stack code snippet manager to save, organize, and reuse code efficiently.
 
 <ul>
   <li>🔹 MERN Stack Application</li>
-  <li>🔹 User Authentication</li>
+  <li>🔹 JWT Authentication & OTP Verification</li>
   <li>🔹 Create, Edit, Delete Snippets</li>
-  <li>🔹 Clean and Responsive UI</li>
+  <li>🔹 Improved performance (Lighthouse: 50 → 80)</li>
 </ul>
 
 <p>
 <a href="https://snip-vault-frontend.onrender.com/">🌐 Live Demo</a> |
 <a href="https://github.com/sunilpy-dev/Snip-Vault">📂 GitHub Repo</a>
 </p>
+
+---
+
+<h3>🚀 FactSure – AI Misinformation Detection</h3>
+
+<p>
+A hackathon project focused on detecting misinformation using AI-powered tools.
+</p>
+
+<ul>
+  <li>🔹 Built during hackathon</li>
+  <li>🔹 Features: chatbot & social media fact-checking</li>
+  <li>🔹 Worked on UI & API integration</li>
+</ul>
+
+---
 
 <h3>🚀 Mumbai Hacks</h3>
 
@@ -116,5 +113,3 @@ A hackathon project focused on building a real-world solution under time constra
 ---
 
 ⭐ *Open to Full-Time Opportunities | Let’s build something impactful together!*
-
-
