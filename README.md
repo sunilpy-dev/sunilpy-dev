@@ -64,16 +64,40 @@
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://snip-vault-frontend.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilpy-dev&repo=Snip-Vault&hide_border=true" />
-  </a>
+<h3>🚀 Snip Vault</h3>
+
+<p>
+A full-stack code snippet manager to save, organize, and reuse code efficiently.
 </p>
 
-### Mumbai Hacks
-🔹 Built during hackathon  
-🔹 Tech: React, Node.js  
-🔹 [View Project](https://github.com/sunilpy-dev/mumbai_hacks)
+<ul>
+  <li>🔹 MERN Stack Application</li>
+  <li>🔹 User Authentication</li>
+  <li>🔹 Create, Edit, Delete Snippets</li>
+  <li>🔹 Clean and Responsive UI</li>
+</ul>
+
+<p>
+<a href="https://snip-vault-frontend.onrender.com/">🌐 Live Demo</a> |
+<a href="https://github.com/sunilpy-dev/Snip-Vault">📂 GitHub Repo</a>
+</p>
+
+<h3>🚀 Mumbai Hacks</h3>
+
+<p>
+A hackathon project focused on building a real-world solution under time constraints with a collaborative team.
+</p>
+
+<ul>
+  <li>🔹 Built during a hackathon</li>
+  <li>🔹 Tech Stack: React, Node.js</li>
+  <li>🔹 Worked in a team environment</li>
+  <li>🔹 Focused on rapid development & problem-solving</li>
+</ul>
+
+<p>
+<a href="https://github.com/sunilpy-dev/mumbai_hacks">📂 GitHub Repo</a>
+</p>
 
 ---
 
